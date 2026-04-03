@@ -5,11 +5,6 @@
 Welcome to my HTML learning repository!
 This repo contains basic to intermediate HTML concepts with examples and practice files.
 
----
-
-
----
----
 
 ## 🛠️ How to Use
 

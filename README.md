@@ -1,5 +1,3 @@
-Here’s a **simple and clean README.md** for your **HTML Study Repository** 👇
-
 ---
 
 # 📘 HTML Study Repository
@@ -18,16 +16,14 @@ This repo contains basic to intermediate HTML concepts with examples and practic
 1. Clone the repository
 
 ```bash
-git clone [https://github.com/your-username/html-study.git](https://github.com/TusharFodse/Study/)
+git clone https://github.com/TusharFodse/Study/
 ```
 
 2. Open any `.html` file in your browser
 
 3. Practice and modify the code
 
----
-
-## 🎯 هدف (Goal)
+(Goal)
 
 To build a strong foundation in HTML for web development.
 
